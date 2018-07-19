@@ -1,0 +1,5 @@
+{
+  "secret" : "714be92a-6c5d-49aa-b7f7-a7c500055d3b",
+  "audience" : "SpeechUpApp",
+  "issuer" : "https://api.speechup.com"
+}

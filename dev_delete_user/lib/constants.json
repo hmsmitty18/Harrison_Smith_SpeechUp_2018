@@ -1,0 +1,12 @@
+{
+	"valid_phonemes": ["P", "B", "T", "D", "K", "G", "M", "N", "NG", "F", "V", "S", "Z", "SH", "ZH", "H", "CH", "J", "R", "L", "W", "Y"],
+	"level_count" : 7,
+	"game_count" : 5,
+	"game_dict" : {
+		"1" : "Minimal Pairs",
+		"2" : "Anti-Gravity",
+		"3" : "Tile",
+		"4" : "Hidden Objects",
+		"5" : "Flashcard"
+	}
+}
